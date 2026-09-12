@@ -8,3 +8,4 @@ category = bmi_category(bmi)
 
 print(f"BMI ={bmi:2f}")
 print(f"分類:{category}")
+print(f"分類:{category}")
